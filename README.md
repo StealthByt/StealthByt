@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/StealthByt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StealthByt&show_icons=false&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StealthByt&show_icons=false&theme=highcontrast&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthByt&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 
