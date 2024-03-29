@@ -1,4 +1,4 @@
-### Olá! 👋
+### Привет! 👋
 
 - 🚀 Estudando Engenharia de software
 - 🤖 Pronouns:ele/dele
