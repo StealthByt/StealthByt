@@ -26,3 +26,5 @@ jobs:
           git add .
           git commit -m "Atualizar cobrinha do GitHub"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
