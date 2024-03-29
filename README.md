@@ -10,8 +10,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Seu-Nome-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Seu-Nome-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ян-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Ян-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="GIF" src="https://media1.tenor.com/m/HxDyev3mE2sAAAAC/kill-remove.gif" height="180em">
 </div>
 
 ##
