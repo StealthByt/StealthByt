@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 - 🚀 Estudando Engenharia de software
-- 😄 Pronouns:ele/dele
+- 🤖 Pronouns:ele/dele
 
 <div>
   <a href="https://github.com/StealthByt">
