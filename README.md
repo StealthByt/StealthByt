@@ -1,7 +1,7 @@
 ### Привет! 👋
 
-- 🚀 Estudando Engenharia de software
-- 🤖 Pronouns:ele/dele
+- 🚀 Studying Software Engineering
+- 🤖 Pronouns:he/his
 
 <div>
   <a href="https://github.com/StealthByt">
