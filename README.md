@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ян-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ян-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Ян-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
       <img align="center" alt="Ян-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="GIF" src="https://c.tenor.com/ZB34igsEVoAAAAAC/tenor.gif" height="180em">
 </div>
