@@ -1,22 +1,30 @@
-### Привет! 👋
+### Hi! 👋 I'm Yan
+- 🎓 Studying **Analysis and Systems Development (ADS)**
+- 🔍 Focused on **Offensive Security & Cybersecurity**
+- 💻 Pronouns: he/his
 
-- 🚀 Studying Software Engineering
-- 🤖 Pronouns:he/his
+---
 
-<div>
+<div align="center">
   <a href="https://github.com/StealthByt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StealthByt&show_icons=false&theme=highcontrast&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthByt&layout=compact&langs_count=16&theme=highcontrast"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StealthByt&show_icons=false&theme=dark&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StealthByt&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+  </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ян-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Ян-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="GIF" src="https://c.tenor.com/ZB34igsEVoAAAAAC/tenor.gif" height="180em">
+---
+
+### **Tech Stack**
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.linkedin.com/in/yan-mendes-1a0148207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=green" target="_blank"></a>  
+### **Connect with me**
+<div>
+  <a href="https://www.linkedin.com/in/yan-mendes-1a0148207" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
